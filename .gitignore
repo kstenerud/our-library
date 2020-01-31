@@ -1,0 +1,3 @@
+*.o
+ourlibrary.so
+test_runner
